@@ -1,2 +1,0 @@
-document.getElementById("before-wrap").addEventListener("mouseover", (event => {document.getElementById("before-wrap").style.marginLeft="-8px"}))
-document.getElementById("before-wrap").addEventListener("mouseout", (event => {document.getElementById("before-wrap").style.marginLeft="-58px"}))
