@@ -1,0 +1,16 @@
+<table>
+  <tr>
+    <th> Kopf </th>
+    <th> Kopf2 </th>
+  </tr>
+  <tr>
+    <td> 3 </td>
+    <td> 4 </td>
+  </tr>
+</table>
+
+Attribute:
+rowspan, colspan, width, height
+
+maybe:_
+<table style = border 1px solid black, border-collapse:collapse >
